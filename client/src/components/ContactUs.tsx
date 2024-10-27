@@ -1,6 +1,6 @@
 import { Clock, Mail, MapPin, PhoneCall } from 'lucide-react'
 import React from 'react'
-import ContactForm from './contactForm'
+import ContactForm from './ContactForm'
 
 const ContactUs: React.FC = () => {
      return (
